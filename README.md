@@ -4,7 +4,7 @@ This is the **backend service** for the *Price Optimization Tool*, a web applica
 
 The backend exposes a secure and scalable REST API built with **Django**, **Django REST Framework**, and **django-filters**, supporting product management, demand forecasting, and price optimization.
 
-For the frontend part of this project, see the [Price Optimization Tool Frontend](https://github.com/shahsad-kp/price-optimization-tool-frontend/README.md).
+For the frontend part of this project, see the [Price Optimization Tool Frontend](https://github.com/shahsad-kp/price-optimization-tool-frontend).
 
 ---
 
